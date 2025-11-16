@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Regulator_LDO:MIC94310-XXM5"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at -0.508 -11.176 0)
 			(effects
 				(font
@@ -63,7 +63,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "MIC94310-XXM5"
+		(property "ki_fp_filters" "SOT-23-5"
 			(at 0 0 0)
 			(effects
 				(font
