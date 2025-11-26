@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFNS32_LAT"
+		(property "Footprint" "FPGA_Lattice_iCE40:QFNS32_LAT"
 			(at 0 -32.766 0)
 			(effects
 				(font
