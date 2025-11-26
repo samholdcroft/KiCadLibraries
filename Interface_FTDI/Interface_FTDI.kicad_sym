@@ -228,7 +228,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -31.75 1.27 0)
 				(length 2.54)
 				(name "PD1_VCONN"
@@ -408,7 +408,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at -31.75 -44.45 0)
 				(length 2.54)
 				(name "SUSPEND#"
