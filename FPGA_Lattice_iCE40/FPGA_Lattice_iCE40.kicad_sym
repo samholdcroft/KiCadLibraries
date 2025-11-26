@@ -139,7 +139,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin input line
 				(at -22.86 17.78 0)
 				(length 2.54)
 				(name "CRESET_B"
@@ -157,7 +157,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at -22.86 15.24 0)
 				(length 2.54)
 				(name "CDONE"
